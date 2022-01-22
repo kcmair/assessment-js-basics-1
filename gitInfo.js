@@ -41,7 +41,7 @@ const gitInitDefinition = 'git init is the command to initialize a local repo in
 
 //CODE HERE
 
-var gitCloneDefinition = `git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository.Ref atlassian.com`;
+var gitCloneDefinition = `git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. Ref atlassian.com`;
 
 //////////////////PROBLEM 5////////////////////
 /*
